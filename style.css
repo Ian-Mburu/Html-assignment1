@@ -1,0 +1,9 @@
+.paragraph p {
+    border: solid green;
+    padding: 20px;
+    margin: 5%;
+}
+
+.paragraph {
+    border: dotted orange;
+}
